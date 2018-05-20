@@ -14,4 +14,3 @@ class SessionsController < ApplicationController
   end
 end
 
-hello
